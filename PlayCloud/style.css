@@ -3,9 +3,11 @@
     background: #00008B;
 
 }
-#corletra{
+
+#corletra {
     color: #C0C0C0;
 }
+
 .alinhaItem {
     margin: 0 auto;
     text-transform: uppercase;
@@ -13,4 +15,49 @@
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+}
+
+.titulo {
+    text-align: center;
+    border: groove 5px;
+    opacity: 50%;
+
+}
+
+.titulo h2 {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.carrossel {
+    height: 550px;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.carrosselitem {
+    height: 550px !important;
+    width: 1000px !important;
+}
+
+#JogoPromocao {
+    margin-top: 50px;
+}
+
+.subtitulo {
+    text-align: left;
+    font-size: 14px;
+    color: red;
+    margin-left: 40px;
+}
+
+.linhacardi {
+    padding: 30px auto;
+}
+
+.colunacardi {
+    margin: 0 auto;
 }
